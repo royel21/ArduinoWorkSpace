@@ -42,6 +42,16 @@
 			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/variants/mega</location>
 		</link>
 		<link>
+			<name>libraries/Keypad</name>
+			<type>2</type>
+			<location>C:/Users/RoyerAriel/Documents/Arduino/libraries/Keypad</location>
+		</link>
+		<link>
+			<name>libraries/LiquidCrystal_I2C</name>
+			<type>2</type>
+			<location>C:/Users/RoyerAriel/Documents/Arduino/libraries/LiquidCrystal_I2C</location>
+		</link>
+		<link>
 			<name>libraries/SoftwareSerial</name>
 			<type>2</type>
 			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/libraries/SoftwareSerial</location>

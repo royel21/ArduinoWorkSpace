@@ -21,14 +21,14 @@
 								<option id="it.baeyens.arduino.compiler.cpp.sketch.option.incpath.203908620" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.cpp.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/LiquidCrystal_I2C}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Adafruit-Fingerprint-Sensor-Library-master}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Wire}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Wire/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/SoftwareSerial}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/SoftwareSerial/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad/src}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.743711893" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -36,14 +36,14 @@
 								<option id="it.baeyens.arduino.compiler.c.sketch.option.incpath.2070115705" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.c.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/LiquidCrystal_I2C}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Adafruit-Fingerprint-Sensor-Library-master}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Wire}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Wire/src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/SoftwareSerial}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/SoftwareSerial/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/KeypadTest/libraries/Keypad/src}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1473678676" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
@@ -60,6 +60,7 @@
 				</configuration>
 			</storageModule>
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+			<storageModule moduleId="ilg.gnuarmeclipse.managedbuild.packs"/>
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
@@ -69,6 +70,11 @@
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
-	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="refreshScope" versionNumber="2">
+		<configuration configurationName="Release">
+			<resource resourceType="PROJECT" workspacePath="/KeypadTest"/>
+		</configuration>
+	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
 </cproject>
