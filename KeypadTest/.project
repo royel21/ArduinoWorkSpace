@@ -42,9 +42,14 @@
 			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/variants/mega</location>
 		</link>
 		<link>
-			<name>libraries/Keypad</name>
+			<name>libraries/SoftwareSerial</name>
 			<type>2</type>
-			<location>C:/Users/Royel/Documents/Arduino/libraries/Keypad</location>
+			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/libraries/SoftwareSerial</location>
+		</link>
+		<link>
+			<name>libraries/Wire</name>
+			<type>2</type>
+			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/libraries/Wire</location>
 		</link>
 	</linkedResources>
 </projectDescription>
