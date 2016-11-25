@@ -4,19 +4,19 @@
 // - extern variable definitions
 // In the appropriate section
 
-#ifndef _keypadTest_H_
-#define _keypadTest_H_
+#ifndef _KeypadTest_H_
+#define _KeypadTest_H_
 #include "Arduino.h"
-//add your includes for the project keypadTest here
+//add your includes for the project KeypadTest here
 
 
 //end of add your includes here
 
 
-//add your function definitions for the project keypadTest here
+//add your function definitions for the project KeypadTest here
 
 
 
 
 //Do not add code below this line
-#endif /* _keypadTest_H_ */
+#endif /* _KeypadTest_H_ */
