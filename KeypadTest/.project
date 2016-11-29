@@ -42,19 +42,19 @@
 			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/variants/mega</location>
 		</link>
 		<link>
-			<name>libraries/Keypad</name>
+			<name>libraries/Adafruit-Fingerprint-Sensor-Library-master</name>
 			<type>2</type>
-			<location>C:/Users/RoyerAriel/Documents/Arduino/libraries/Keypad</location>
+			<location>C:/Users/Royel/Documents/Arduino/libraries/Adafruit-Fingerprint-Sensor-Library-master</location>
 		</link>
 		<link>
 			<name>libraries/LiquidCrystal_I2C</name>
 			<type>2</type>
-			<location>C:/Users/RoyerAriel/Documents/Arduino/libraries/LiquidCrystal_I2C</location>
+			<location>C:/Users/Royel/Documents/Arduino/libraries/LiquidCrystal_I2C</location>
 		</link>
 		<link>
-			<name>libraries/SoftwareSerial</name>
+			<name>libraries/TM1637</name>
 			<type>2</type>
-			<location>C:/Dev/Ceclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.14/libraries/SoftwareSerial</location>
+			<location>C:/Users/Royel/Documents/Arduino/libraries/TM1637</location>
 		</link>
 		<link>
 			<name>libraries/Wire</name>
